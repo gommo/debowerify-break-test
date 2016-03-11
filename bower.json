@@ -1,0 +1,6 @@
+{
+  "name": "debowerify-test",
+  "dependencies": {
+    "highcharts": "^4.2.3"
+  }
+}
